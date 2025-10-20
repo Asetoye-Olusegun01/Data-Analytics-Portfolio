@@ -1,0 +1,16 @@
+data-analytics-portfolio/
+│
+├── Finance_Analytics_SQL_Project/
+│   ├── finance_analysis.sql
+│   ├── finance_dashboard.xlsx
+│   └── README.md
+│
+├── HR_Analytics_SQL_Project/
+│   ├── hr_analysis.sql
+│   └── README.md
+│
+├── Cybersecurity_Analytics_Project/
+│   └── README.md
+│
+└── Sales_Data_Excel_Project/
+    └── README.md
